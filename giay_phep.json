@@ -3,15 +3,33 @@
     "phat_hanh": "2026-10-10",
     "danh_sach": [
       {
+        "ten": "Bemine",
+        "han": "2026-11-09",
+        "san_pham": [
+          "lucky"
+        ],
+        "nguon": {
+          "main": "98e241feda37eefc",
+          "ocung": "86b6d2568c0515e2",
+          "windows": "144c9ec0b5fefd09"
+        }
+      },
+      {
         "ten": "May cua toi",
         "han": "2027-12-31",
         "nguon": {
           "main": "6f6d4affa05e3574e7b25baaa4a916363420826a2c67e715242a5198140834d3",
           "ocung": "736742a8560feac68cf4ead2803d72bd6d6d5012530ba43df3e31e809bf9cf51",
           "windows": "4d6eb4965aad8a455fb1791cc7f5b5c1abecc013b6ba612b2598cb50b14fc4fe"
-        }
+        },
+        "san_pham": [
+          "lucky",
+          "getnews",
+          "layanh",
+          "notifylk"
+        ]
       }
     ]
   },
-  "chu_ky": "bb86d0cb4565744200b1be19d65f96040c783344451efd5115e091fea033b9b3b74962748f64f6ec183188bde8c25d2011aa9e5261174baa55c31e8b2f78b402"
+  "chu_ky": "a0e317b0993d6a30ae2a3cd8a281049a4c9b2e34f15a7ac5685a85722cd3d149d0e6c9228e323ef42a9e920127199a901e21303142c06e8590f8e75b555cc108"
 }
