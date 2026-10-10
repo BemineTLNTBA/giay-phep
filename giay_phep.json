@@ -3,18 +3,6 @@
     "phat_hanh": "2026-10-10",
     "danh_sach": [
       {
-        "ten": "Bemine",
-        "han": "2026-11-09",
-        "san_pham": [
-          "lucky"
-        ],
-        "nguon": {
-          "main": "98e241feda37eefc",
-          "ocung": "86b6d2568c0515e2",
-          "windows": "144c9ec0b5fefd09"
-        }
-      },
-      {
         "ten": "May cua toi",
         "han": "2027-12-31",
         "nguon": {
@@ -31,5 +19,5 @@
       }
     ]
   },
-  "chu_ky": "a0e317b0993d6a30ae2a3cd8a281049a4c9b2e34f15a7ac5685a85722cd3d149d0e6c9228e323ef42a9e920127199a901e21303142c06e8590f8e75b555cc108"
+  "chu_ky": "ee5179ddf5cef780c4fee06530890ce6c659f5ca85e52227b549a4b33831fc42ed1f08c84646dd338890e3cf1e040df06b3df1586a5519eff6b1f80737784d00"
 }
