@@ -46,11 +46,7 @@
         "ten": "VPS",
         "han": "2026-11-12",
         "san_pham": [
-          "lucky",
-          "getnews",
-          "austore",
-          "layanh",
-          "notifylk"
+          "getnews"
         ],
         "nguon": {
           "main": "842437c45a4821d5",
@@ -59,5 +55,5 @@
       }
     ]
   },
-  "chu_ky": "13a03cec24609206ada61d5883e199dec67ed4acf43d8f484dbb4c7e98e3f5ff0eb5115339f044061b4c09b1ca49159ca220d3997407beff065908f778f8e30b"
+  "chu_ky": "e7aaa8e0c55c1271dffdbf4df293043899f6b1d788912afb97b37a38fff88d202b7ff5deac2b0e356a4f4e2e6e9454b6008458e0f57dcfd09c567e8695ef4905"
 }
