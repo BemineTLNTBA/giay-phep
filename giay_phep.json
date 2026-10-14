@@ -6,7 +6,7 @@
         "ten": "Bemine",
         "han": "2027-10-10",
         "san_pham": [
-          "lucky"
+          "austore"
         ],
         "nguon": {
           "main": "98e241feda37eefc",
@@ -55,5 +55,5 @@
       }
     ]
   },
-  "chu_ky": "98d4b75a0dfeb64a28c30c87e6971647d5afd1e80bcbd9b451ff13755c2eb9b59fd9ae60681a5373a3e8ad3a68ef2940c34f469113e2f407984022fec44d720e"
+  "chu_ky": "914544d1f2e4e917e2de6b07e999f5f26e128551fec3ebe4b99047e501ecfa04bc9749f59516ea7c2d429aca3158e5457f61fba675721de73aabadff793c2909"
 }
