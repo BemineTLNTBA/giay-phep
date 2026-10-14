@@ -6,7 +6,7 @@
         "ten": "Bemine",
         "han": "2027-10-10",
         "san_pham": [
-          "austore"
+          "getnews"
         ],
         "nguon": {
           "main": "98e241feda37eefc",
@@ -55,5 +55,5 @@
       }
     ]
   },
-  "chu_ky": "914544d1f2e4e917e2de6b07e999f5f26e128551fec3ebe4b99047e501ecfa04bc9749f59516ea7c2d429aca3158e5457f61fba675721de73aabadff793c2909"
+  "chu_ky": "75c21cb37aee2b848802f5cfab1bbd4ddbfa62d101769cf429079f2311d3fbe4e85e6712000f5e01a1118d6b6ce8ee5307fc864d3b55b20767349ca801af3605"
 }
