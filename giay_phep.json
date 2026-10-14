@@ -33,7 +33,7 @@
         "ten": "Vi",
         "han": "2026-11-10",
         "san_pham": [
-          "austore"
+          "getnews"
         ],
         "nguon": {
           "main": "fcc897059eb6c3d6",
@@ -54,5 +54,5 @@
       }
     ]
   },
-  "chu_ky": "a1214ec47304297b988afa7803390daf0443486e88973df0e56eafa38b2eac0c580f6f7333dfb929faba29b182dec07fc17eb85ae24df07967fae9184a02e209"
+  "chu_ky": "2fe41a59685e647801379d4d66576c565dcd66ec295ee00a4de6274b43a6cedaf4cbc891c32fa9690ac8071eb8a1d46dedc5ffaac912f25a9cd7b538f6f22401"
 }
