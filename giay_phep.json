@@ -40,19 +40,8 @@
           "ocung": "e498b3654d640bc3",
           "windows": "0f3851cb6e898171"
         }
-      },
-      {
-        "ten": "VPS",
-        "han": "2026-11-12",
-        "san_pham": [
-          "getnews"
-        ],
-        "nguon": {
-          "main": "842437c45a4821d5",
-          "windows": "d6092bf846605742"
-        }
       }
     ]
   },
-  "chu_ky": "b808266f929487840653efee794c59c2e0383c959d03f2c7250fee453a98fa78b41f472769748fc2c141640a45dd913e082d9a04e6c0b6d3d33c0a175acc4f05"
+  "chu_ky": "7a0fe9c7bf2bd1b34cd710b9e4689a6a426a0079601d78bb642519651108d046b3c1da537d1a88d03a972b58e2ea787229dd20879b5e812fb8c5228af9f5d204"
 }
