@@ -1,6 +1,6 @@
 {
   "noi_dung": {
-    "phat_hanh": "2026-10-14",
+    "phat_hanh": "2026-10-15",
     "danh_sach": [
       {
         "ten": "Bemine",
@@ -45,7 +45,8 @@
         "ten": "VPS",
         "han": "2026-11-13",
         "san_pham": [
-          "getnews"
+          "getnews",
+          "taoanh"
         ],
         "nguon": {
           "main": "842437c45a4821d5",
@@ -54,5 +55,5 @@
       }
     ]
   },
-  "chu_ky": "2fe41a59685e647801379d4d66576c565dcd66ec295ee00a4de6274b43a6cedaf4cbc891c32fa9690ac8071eb8a1d46dedc5ffaac912f25a9cd7b538f6f22401"
+  "chu_ky": "9cc2d3bd56afe69cc89c6fc274160cebfe0f3312c577a7b14ca95af9655bac04b1081ceb235048daaeaed9cdd698b012ef8986a68f44ecc5c20d22b8e83d190c"
 }
