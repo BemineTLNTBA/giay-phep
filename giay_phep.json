@@ -47,6 +47,7 @@
         "han": "2026-11-13",
         "san_pham": [
           "getnews",
+          "layanh",
           "taoanh"
         ],
         "nguon": {
@@ -56,5 +57,5 @@
       }
     ]
   },
-  "chu_ky": "98d49e5a5b82273982957ad14e15623ec0a55b606c658d210919ad8dfa39603214f0a33054fdcbd672047cab23db2d5c2bcf8be7d8ba2a3f5c3b6b7a84f70a09"
+  "chu_ky": "ad3ee2bf26486939651c2fccd7ee1093e6e61c4380c47ca427e35946a3badfcc38cd5bf5f198d0e134ee6dc782b63719b0405cc9a82d841bc9eb4a5390831d0b"
 }
