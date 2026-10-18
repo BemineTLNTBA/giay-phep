@@ -46,8 +46,7 @@
         "ten": "Vi Máy Nhà",
         "han": "2026-11-17",
         "san_pham": [
-          "getnews",
-          "taoanh"
+          "getnews"
         ],
         "nguon": {
           "main": "14158f1879e2cef7",
@@ -69,5 +68,5 @@
       }
     ]
   },
-  "chu_ky": "225f781462d535cce64f35eb2bf4772589805eedd6298e11a5260ed977f51acfb593f3907a8ed8756331e782f1d68be94b318227eca1fcd5a91b86d63e4f280f"
+  "chu_ky": "0575fdcae6ee2909259204c3823cc21b64fd88760631e571f5f620383396e2d1030408510f8421ec42d26aa0214770c1f6187b8a52047edd682f0856d5f23309"
 }
