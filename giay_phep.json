@@ -1,6 +1,6 @@
 {
   "noi_dung": {
-    "phat_hanh": "2026-10-15",
+    "phat_hanh": "2026-10-18",
     "danh_sach": [
       {
         "ten": "Bemine",
@@ -43,6 +43,19 @@
         }
       },
       {
+        "ten": "Vi Máy Nhà",
+        "han": "2026-11-17",
+        "san_pham": [
+          "getnews",
+          "taoanh"
+        ],
+        "nguon": {
+          "main": "14158f1879e2cef7",
+          "ocung": "6635cff01214fb51",
+          "windows": "9a371e92e82b2170"
+        }
+      },
+      {
         "ten": "VPS",
         "han": "2026-11-13",
         "san_pham": [
@@ -57,5 +70,5 @@
       }
     ]
   },
-  "chu_ky": "ad3ee2bf26486939651c2fccd7ee1093e6e61c4380c47ca427e35946a3badfcc38cd5bf5f198d0e134ee6dc782b63719b0405cc9a82d841bc9eb4a5390831d0b"
+  "chu_ky": "b461c63b0496c4edc9a4ef51bb4662450dc4babc10bf2fc7489eadf3826dfb95e3ccc10d7f27c0f29d4a6b69ada375223c120124f8a411012c32c361f62e2606"
 }
