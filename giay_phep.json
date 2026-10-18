@@ -60,8 +60,7 @@
         "han": "2026-11-13",
         "san_pham": [
           "getnews",
-          "layanh",
-          "taoanh"
+          "layanh"
         ],
         "nguon": {
           "main": "842437c45a4821d5",
@@ -70,5 +69,5 @@
       }
     ]
   },
-  "chu_ky": "b461c63b0496c4edc9a4ef51bb4662450dc4babc10bf2fc7489eadf3826dfb95e3ccc10d7f27c0f29d4a6b69ada375223c120124f8a411012c32c361f62e2606"
+  "chu_ky": "225f781462d535cce64f35eb2bf4772589805eedd6298e11a5260ed977f51acfb593f3907a8ed8756331e782f1d68be94b318227eca1fcd5a91b86d63e4f280f"
 }
