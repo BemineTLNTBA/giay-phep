@@ -1,6 +1,6 @@
 {
   "noi_dung": {
-    "phat_hanh": "2026-10-18",
+    "phat_hanh": "2026-10-28",
     "danh_sach": [
       {
         "ten": "Bemine",
@@ -33,6 +33,7 @@
         "ten": "Vi",
         "han": "2026-11-10",
         "san_pham": [
+          "lucky",
           "getnews",
           "taoanh"
         ],
@@ -46,6 +47,7 @@
         "ten": "Vi Máy Nhà",
         "han": "2026-11-17",
         "san_pham": [
+          "lucky",
           "getnews",
           "taoanh"
         ],
@@ -69,5 +71,5 @@
       }
     ]
   },
-  "chu_ky": "225f781462d535cce64f35eb2bf4772589805eedd6298e11a5260ed977f51acfb593f3907a8ed8756331e782f1d68be94b318227eca1fcd5a91b86d63e4f280f"
+  "chu_ky": "4775021ecea322a468fdcb734ab4c215e46b3b2392320ccf71a37480fda8cf56720a3384a317fffedfb13c5398c9bbb99f787d752f5245c132f38336beffeb0a"
 }
